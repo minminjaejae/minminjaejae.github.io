@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.81dd642b.css",
+    "main.js": "/static/js/main.0f35e65e.js",
+    "static/media/rundog2.png": "/static/media/rundog2.32131f2b54b8a261549a.png",
+    "index.html": "/index.html",
+    "main.81dd642b.css.map": "/static/css/main.81dd642b.css.map",
+    "main.0f35e65e.js.map": "/static/js/main.0f35e65e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81dd642b.css",
+    "static/js/main.0f35e65e.js"
+  ]
+}
